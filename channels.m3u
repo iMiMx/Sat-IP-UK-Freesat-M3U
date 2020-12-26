@@ -1,0 +1,167 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="5accfb7f40fd9d60bf3598c720519aba" tvg-chno="100",BBC One South
+http://10.1.1.10/?src=1&freq=10818&pol=V&msys=DVBS&mtype=QPSK&sr=22000&pids=0,5200,5201,258,5200,5202
+#EXTINF:-1 tvg-id="df3f9e27cd1110bd0ed2e9d7d245499d" tvg-chno="101",BBC One HD
+http://10.1.1.10/?src=1&freq=10847&pol=V&msys=DVBS2&mtype=8PSK&sr=23000&pids=0,5400,5402,260,5400,5403
+#EXTINF:-1 tvg-id="cfe3e7c7ceb8b028e31c0420e5cd72bf" tvg-chno="102",BBC Two HD
+http://10.1.1.10/?src=1&freq=10847&pol=V&msys=DVBS2&mtype=8PSK&sr=23000&pids=0,5500,5502,258,5500,5503
+#EXTINF:-1 tvg-id="21b715b33effbe75716f59d4f8b1d2f7" tvg-chno="103",ITV HD
+http://10.1.1.10/?src=1&freq=11052&pol=H&msys=DVBS2&mtype=8PSK&sr=23000&pids=0,2325,2327,261,2325,2328
+#EXTINF:-1 tvg-id="10e242f2c0854289c1d1dabbaab6c233" tvg-chno="104",Channel 4 HD
+http://10.1.1.10/?src=1&freq=11127&pol=V&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2305,2307,259,2305,2309
+#EXTINF:-1 tvg-id="ad856c90149c186fe3316d7b3a02ed75" tvg-chno="105",Channel 5 HD
+http://10.1.1.10/?src=1&freq=10964&pol=H&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2305,2307,257,2305,2308
+#EXTINF:-1 tvg-id="5c28041ce8fa469e2723e96a7e5a697f" tvg-chno="106",ITV+1
+http://10.1.1.10/?src=1&freq=10758&pol=V&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2351,2352,267,2351,2353
+#EXTINF:-1 tvg-id="9912f65b1fb2b05a46cb28980b049241" tvg-chno="107",Channel 4+1
+http://10.1.1.10/?src=1&freq=10936&pol=V&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2332,2333,263,2332,2334
+#EXTINF:-1 tvg-id="d2bc17d52a1ae03d510b99545885e383" tvg-chno="108",Channel 5+1
+http://10.1.1.10/?src=1&freq=10964&pol=H&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2321,2323,262,2321,2324
+#EXTINF:-1 tvg-id="65362600c62adb29b1c4baa6e5c851a5" tvg-chno="109",BBC Four HD
+http://10.1.1.10/?src=1&freq=11024&pol=H&msys=DVBS2&mtype=8PSK&sr=23000&pids=0,5300,5302,262,5300,5303
+#EXTINF:-1 tvg-id="54ef532e8946356d0ce77b0bc0564ff4" tvg-chno="110",BBCScotlandHD
+http://10.1.1.10/?src=1&freq=11024&pol=H&msys=DVBS2&mtype=8PSK&sr=23000&pids=0,2307,2309,263,2307,2310
+#EXTINF:-1 tvg-id="b6f6a2312db8a7356762692e5e43a0f5" tvg-chno="200",ITV2
+http://10.1.1.10/?src=1&freq=10758&pol=V&msys=DVBS&mtype=QPSK&sr=22000&pids=0,3332,3334,262,3332,2360
+#EXTINF:-1 tvg-id="b3591bfdc8ab619b5f8f0b52a82dbccd" tvg-chno="201",ITV2+1
+http://10.1.1.10/?src=1&freq=10891&pol=H&msys=DVBS&mtype=QPSK&sr=22000&pids=0,3352,3354,265,3352,2392
+#EXTINF:-1 tvg-id="d5107d865dfb96b96086e35e4e3ed1e8" tvg-chno="202",ITV3
+http://10.1.1.10/?src=1&freq=10906&pol=V&msys=DVBS&mtype=QPSK&sr=22000&pids=0,3348,3350,260,3348,2354
+#EXTINF:-1 tvg-id="40aa177420020fbf0657737f6eac5efb" tvg-chno="203",ITV3+1
+http://10.1.1.10/?src=1&freq=10906&pol=V&msys=DVBS&mtype=QPSK&sr=22000&pids=0,3352,3354,261,3352,2361
+#EXTINF:-1 tvg-id="9af4852b9977e7a11bfef3fa1e5aec76" tvg-chno="204",ITV4
+http://10.1.1.10/?src=1&freq=10758&pol=V&msys=DVBS&mtype=QPSK&sr=22000&pids=0,3340,3342,264,3340,2369
+#EXTINF:-1 tvg-id="823bc94fda01bd9589b5025cb1837246" tvg-chno="205",ITV4+1
+http://10.1.1.10/?src=1&freq=10758&pol=V&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2316,2318,269,2316,2319
+#EXTINF:-1 tvg-id="9368bfc8b3750f976e2e04af2e0bb8db" tvg-chno="206",ITVBe
+http://10.1.1.10/?src=1&freq=10758&pol=V&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2305,2309,258,2305,2310
+#EXTINF:-1 tvg-id="15e81c47b4b7a28b35f95df431b08f7d" tvg-chno="207",ITVBe+1
+http://10.1.1.10/?src=1&freq=10891&pol=H&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2305,2309,258,2305,2310
+#EXTINF:-1 tvg-id="e76285aef8555f7b80659ed1d70289d1" tvg-chno="208",E4
+http://10.1.1.10/?src=1&freq=10714&pol=H&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2372,2374,263,2372,2375
+#EXTINF:-1 tvg-id="731b30dafde4ed0da588d0213d371b67" tvg-chno="209",E4+1
+http://10.1.1.10/?src=1&freq=10936&pol=V&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2347,2349,256,2347,2350
+#EXTINF:-1 tvg-id="ec5b8f1f6263e551ff9a5a8c3d2802c2" tvg-chno="210",More4
+http://10.1.1.10/?src=1&freq=10936&pol=V&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2359,2361,268,2359,2362
+#EXTINF:-1 tvg-id="9869e6464e6b4c03e5dafdb67cc675a6" tvg-chno="211",More4+1
+http://10.1.1.10/?src=1&freq=10714&pol=H&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2367,2369,264,2367,2370
+#EXTINF:-1 tvg-id="5fec849a13efa388bf178d0b29efaf73" tvg-chno="212",4seven
+http://10.1.1.10/?src=1&freq=11127&pol=V&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2316,2319,260,2316,2318
+#EXTINF:-1 tvg-id="1c816f2b869225456b6485c420adb770" tvg-chno="213",5 USA
+http://10.1.1.10/?src=1&freq=10964&pol=H&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2325,2327,258,2325,2328
+#EXTINF:-1 tvg-id="64eea81410b675475ffe2a13475d1c8d" tvg-chno="214",5USA+1
+http://10.1.1.10/?src=1&freq=10964&pol=H&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2333,2336,259,2333,2335
+#EXTINF:-1 tvg-id="8b14c9800258777dd10de797bc2f5455" tvg-chno="215",5STAR
+http://10.1.1.10/?src=1&freq=10964&pol=H&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2329,2331,260,2329,2332
+#EXTINF:-1 tvg-id="6600c96e8b384cc29f5192c0569aae93" tvg-chno="216",5STAR+1
+http://10.1.1.10/?src=1&freq=10964&pol=H&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2341,2343,256,2341,2344
+#EXTINF:-1 tvg-id="186a287d38232bd22f30a032b66263fa" tvg-chno="217",5SELECT
+http://10.1.1.10/?src=1&freq=10964&pol=H&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2337,2340,261,2337,2339
+#EXTINF:-1 tvg-id="971b63ad92b86f089caa759403c2b91b" tvg-chno="218",Sky Arts
+http://10.1.1.10/?src=1&freq=12070&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,526,656,299,8190,581
+#EXTINF:-1 tvg-id="b7985b68b7e36585c637f03d07ef1abc" tvg-chno="300",CBS Drama
+http://10.1.1.10/?src=1&freq=11344&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,3080,3081,270,3080,
+#EXTINF:-1 tvg-id="3b24eea671be58c85756c509ff550849" tvg-chno="301",CBS Reality
+http://10.1.1.10/?src=1&freq=11344&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2650,2327,285,2650,2346
+#EXTINF:-1 tvg-id="0f35c4f2fe858f3ffa8d285834cbd426" tvg-chno="302",CBS Reality+1
+http://10.1.1.10/?src=1&freq=11344&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2312,2313,275,2312,2347
+#EXTINF:-1 tvg-id="8e5be714e10151481e6a65d23d885ae3" tvg-chno="303",CBS Justice
+http://10.1.1.10/?src=1&freq=11344&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2318,2319,256,2318,
+#EXTINF:-1 tvg-id="75af6c4e9ff3a0edd8182842355a04ea" tvg-chno="305",DMAX
+http://10.1.1.10/?src=1&freq=12382&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2384,2385,260,2384,
+#EXTINF:-1 tvg-id="969aca08aaf6ef34d49595c18bbf57bf" tvg-chno="306",DMAX+1
+http://10.1.1.10/?src=1&freq=12382&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2389,2390,256,2389,
+#EXTINF:-1 tvg-id="349b22036bfd563ca5363968fdc96ef8" tvg-chno="307",Drama
+http://10.1.1.10/?src=1&freq=12129&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2372,2373,257,2372,2375
+#EXTINF:-1 tvg-id="6646747439815442502cc455788ff1b1" tvg-chno="308",Drama+1
+http://10.1.1.10/?src=1&freq=12129&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2380,2381,268,2380,2383
+#EXTINF:-1 tvg-id="208915e5e580113e4848ec226f0d4015" tvg-chno="309",PBS America
+http://10.1.1.10/?src=1&freq=11344&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2337,2338,267,2337,2339
+#EXTINF:-1 tvg-id="75b2a28154b8128ab6b3469a02e07e98" tvg-chno="310",Dave
+http://10.1.1.10/?src=1&freq=12129&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2308,2312,264,2308,2310
+#EXTINF:-1 tvg-id="8d494af43caece6fd895fc7e8e721a9e" tvg-chno="311",Dave ja vu
+http://10.1.1.10/?src=1&freq=12129&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2345,2343,277,2345,2344
+#EXTINF:-1 tvg-id="e280f14c2b04290f3d9b7e5b11c3e53f" tvg-chno="312",YESTERDAY
+http://10.1.1.10/?src=1&freq=12129&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2332,2334,263,2332,2333
+#EXTINF:-1 tvg-id="9eb54d6d4e862473fe0da9c549f45693" tvg-chno="313",YESTERDAY+1
+http://10.1.1.10/?src=1&freq=12129&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2337,2339,279,2337,2338
+#EXTINF:-1 tvg-id="7ce569f3124dbd7afe435b3a556277a9" tvg-chno="314",Really
+http://10.1.1.10/?src=1&freq=11344&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2309,2324,262,2309,2340
+#EXTINF:-1 tvg-id="5eb4bfe21244e9e03300765c98acffb5" tvg-chno="315",BLAZE
+http://10.1.1.10/?src=1&freq=11081&pol=H&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2310,2311,263,2310,
+#EXTINF:-1 tvg-id="5a83f4c9c901c5a9376c3160d6b294b0" tvg-chno="316",Together
+http://10.1.1.10/?src=1&freq=11836&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,527,660,256,8190,584
+#EXTINF:-1 tvg-id="e358b4183d3c38f848953642cdd08798" tvg-chno="317",Forces TV
+http://10.1.1.10/?src=1&freq=11836&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,521,649,272,8190,
+#EXTINF:-1 tvg-id="dc92149b7a095dbc1583ccc29c3367a3" tvg-chno="318",HGTV
+http://10.1.1.10/?src=1&freq=11344&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2346,2349,265,2346,2347
+#EXTINF:-1 tvg-id="c929864ea54a5698c244d4e23cdf47d8" tvg-chno="319",HGTV+1
+http://10.1.1.10/?src=1&freq=11344&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2351,2354,276,2351,2353
+#EXTINF:-1 tvg-id="9fc30b5c5cf83929dcea688e316ea999" tvg-chno="320",QUEST HD
+http://10.1.1.10/?src=1&freq=11426&pol=V&msys=DVBS2&mtype=QPSK&sr=29500&pids=0,2305,2309,257,2305,2310
+#EXTINF:-1 tvg-id="9dbfc753a43d5a585095ec7b1bb31029" tvg-chno="321",QUEST+1
+http://10.1.1.10/?src=1&freq=12382&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2360,2362,264,2360,2363
+#EXTINF:-1 tvg-id="f0dc87a357834378964db6df3ba4c0cd" tvg-chno="322",Quest Red
+http://10.1.1.10/?src=1&freq=12382&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2356,2358,265,2356,2359
+#EXTINF:-1 tvg-id="1bfcc6e0d7163ad3fc4491a0d88bf6f1" tvg-chno="323",Quest Red+1
+http://10.1.1.10/?src=1&freq=12382&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2323,2343,259,2323,2346
+#EXTINF:-1 tvg-id="65b250d55fc4fd0cb6eaec8071c48eb5" tvg-chno="324",Smithsonian HD
+http://10.1.1.10/?src=1&freq=11265&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2305,2306,261,2305,
+#EXTINF:-1 tvg-id="5a0030105a15982a000697de33b7f3d3" tvg-chno="339",BET:BlackEntTv
+http://10.1.1.10/?src=1&freq=11141&pol=H&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2301,2302,259,2301,
+#EXTINF:-1 tvg-id="853045d22740f15d156a6687e69df8cf" tvg-chno="356",Pick
+http://10.1.1.10/?src=1&freq=12070&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,527,662,257,8190,582
+#EXTINF:-1 tvg-id="48a94e2d0ffd0414f44b9df934bae54a" tvg-chno="357",Pick+1
+http://10.1.1.10/?src=1&freq=12070&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,528,664,301,8190,583
+#EXTINF:-1 tvg-id="71b9f30dccbdbacdf23c5ad2aa1463e2" tvg-chno="358",Challenge
+http://10.1.1.10/?src=1&freq=11836&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,522,670,262,8190,586
+#EXTINF:-1 tvg-id="c95f8c3cfa31cd13fd2964cafc62bb16" tvg-chno="359",Food Network
+http://10.1.1.10/?src=1&freq=12382&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2333,2335,273,2333,2336
+#EXTINF:-1 tvg-id="92cce1e508da5dc69a9c1d88776eae4f" tvg-chno="360",Food Netwrk+1
+http://10.1.1.10/?src=1&freq=12382&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2319,2320,268,2319,2321
+#EXTINF:-1 tvg-id="823d4c88f5bc39e67069b4d73c51cef3" tvg-chno="361",Travelxp
+http://10.1.1.10/?src=1&freq=11567&pol=V&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2326,2327,268,2326,
+#EXTINF:-1 tvg-id="d09b42cf3bb35fdccbd01938a79109ae" tvg-chno="362",Foodxp
+http://10.1.1.10/?src=1&freq=11582&pol=H&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2319,2318,257,2319,
+#EXTINF:-1 tvg-id="1db1fa92f91d2d885423d53e9b1c7cbe" tvg-chno="500",Film4
+http://10.1.1.10/?src=1&freq=10714&pol=H&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2353,2355,266,2353,2356
+#EXTINF:-1 tvg-id="a2f6bff44143a9ea2f4581346600e9f6" tvg-chno="501",Film4+1
+http://10.1.1.10/?src=1&freq=10936&pol=V&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2354,2356,262,2354,2357
+#EXTINF:-1 tvg-id="c51b86087518c7537960f46479be9e83" tvg-chno="502",Sony Movies
+http://10.1.1.10/?src=1&freq=11307&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2349,2350,270,2349,
+#EXTINF:-1 tvg-id="9579f07b64df0ce5b5cb2c9192dc6afe" tvg-chno="503",Sony Movies+1
+http://10.1.1.10/?src=1&freq=11307&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2352,2353,271,2352,
+#EXTINF:-1 tvg-id="084135cb7770ecc54af2317d3bc4a071" tvg-chno="504",Sony Christmas
+http://10.1.1.10/?src=1&freq=11307&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2313,2314,284,2313,
+#EXTINF:-1 tvg-id="9c2363bfc4373687684923298ccc7987" tvg-chno="505",Sony Xmas+1
+http://10.1.1.10/?src=1&freq=11307&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2317,2318,283,2317,
+#EXTINF:-1 tvg-id="f34c58691dc85a52e57bcfa85597ab15" tvg-chno="506",Sony Action
+http://10.1.1.10/?src=1&freq=11307&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2306,2307,269,2306,
+#EXTINF:-1 tvg-id="a587db9d4584e85e44e638512a47d2d7" tvg-chno="507",Sony Action+1
+http://10.1.1.10/?src=1&freq=11307&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2319,2320,268,2319,
+#EXTINF:-1 tvg-id="df612ced75f9a3aad98bac63d886047f" tvg-chno="508",Sony Channel
+http://10.1.1.10/?src=1&freq=11307&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2341,2342,265,2341,
+#EXTINF:-1 tvg-id="825caa718bc310aef54343ad31eb0739" tvg-chno="509",Sony Channel+1
+http://10.1.1.10/?src=1&freq=11307&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2344,2345,256,2344,
+#EXTINF:-1 tvg-id="14ac53ba55d365aefc09467ed71c4110" tvg-chno="510",horror channel
+http://10.1.1.10/?src=1&freq=11344&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2307,2308,286,2307,
+#EXTINF:-1 tvg-id="e8c8fcb9182c26ebf01e40d78bd4f385" tvg-chno="511",horror ch+1
+http://10.1.1.10/?src=1&freq=11344&pol=V&msys=DVBS&mtype=QPSK&sr=27500&pids=0,2314,2315,276,2314,
+#EXTINF:-1 tvg-id="1cad0012565bc8953a3ba52b8dc4655e" tvg-chno="512",TalkingPictures
+http://10.1.1.10/?src=1&freq=11538&pol=V&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2315,2316,270,2315,2346
+#EXTINF:-1 tvg-id="c206a4c0765d03fd3c74d4fd5bcf1cb0" tvg-chno="513",Paramount
+http://10.1.1.10/?src=1&freq=10964&pol=H&msys=DVBS&mtype=QPSK&sr=22000&pids=0,2360,2362,268,2360,2363
+#EXTINF:-1 tvg-id="3c2eff210b58a9485f481e4511ce9237" tvg-chno="600",CNN HD
+http://10.1.1.10/?src=1&freq=11671&pol=H&msys=DVBS2&mtype=8PSK&sr=23000&pids=0,2324,2326,256,2324,
+#EXTINF:-1 tvg-id="e660110d64b6c0be581ea6beee0a41a4" tvg-chno="601",BBC NEWS HD
+http://10.1.1.10/?src=1&freq=11024&pol=H&msys=DVBS2&mtype=8PSK&sr=23000&pids=0,5000,5001,258,5000,5003
+#EXTINF:-1 tvg-id="d7c663971aa1b882b91d846f55dd9879" tvg-chno="602",BBC Parliament
+http://10.1.1.10/?src=1&freq=10788&pol=V&msys=DVBS&mtype=QPSK&sr=22000&pids=0,5100,5101,258,5100,5103
+#EXTINF:-1 tvg-id="4af5033504b74f234cd3d9684d900afa" tvg-chno="603",Sky News
+http://10.1.1.10/?src=1&freq=12070&pol=H&msys=DVBS&mtype=QPSK&sr=27500&pids=0,525,655,300,8190,580
+#EXTINF:-1 tvg-id="0e30a917e74e4fa1ae8a762efe88057e" tvg-chno="604",Bloomberg HD
+http://10.1.1.10/?src=1&freq=11685&pol=V&msys=DVBS2&mtype=8PSK&sr=23000&pids=0,2335,2336,259,2335,
+#EXTINF:-1 tvg-id="b6bbe38a262e3ce9e27417d017dd6c45" tvg-chno="605",CNBC
+http://10.1.1.10/?src=1&freq=12285&pol=V&msys=DVBS2&mtype=8PSK&sr=27500&pids=0,518,646,265,518,
+#EXTINF:-1 tvg-id="b8052e71201a09cd466e8150feb5ae1f" tvg-chno="606",FreeSports HD
+http://10.1.1.10/?src=1&freq=11426&pol=V&msys=DVBS2&mtype=QPSK&sr=29500&pids=0,2313,2314,259,4350,
