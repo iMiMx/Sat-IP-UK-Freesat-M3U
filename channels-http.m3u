@@ -38,7 +38,7 @@ http://10.8.12.11/?src=1&freq=10758&pol=V&msys=DVBS&mtype=QPSK&sr=22000&pids=0,1
 #EXTINF:-1 tvg-id="15e81c47b4b7a28b35f95df431b08f7d" tvg-chno="207",ITVBe+1
 http://10.8.12.11/?src=1&freq=10891&pol=H&msys=DVBS&mtype=QPSK&sr=22000&pids=0,1,16,17,258,2305,2308,2315
 #EXTINF:-1 tvg-id="e76285aef8555f7b80659ed1d70289d1" tvg-chno="208",E4
-http://10.8.12.11/?src=1&freq=10714&pol=H&msys=DVBS&mtype=QPSK&sr=22000&pids=0,1,16,17,263,2372,2372,2376
+http://10.8.12.11/?src=1&freq=10714&pol=H&msys=DVBS&mtype=QPSK&sr=22000&pids=0,1,16,17,263,2372,2373,2376
 #EXTINF:-1 tvg-id="731b30dafde4ed0da588d0213d371b67" tvg-chno="209",E4+1
 http://10.8.12.11/?src=1&freq=10936&pol=V&msys=DVBS&mtype=QPSK&sr=22000&pids=0,1,16,17,256,2347,2348,2351
 #EXTINF:-1 tvg-id="ec5b8f1f6263e551ff9a5a8c3d2802c2" tvg-chno="210",More4
