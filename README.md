@@ -1,9 +1,9 @@
 # Sat-IP-UK-Freesat-M3U
-Minus 'rubbish' channels, music, radio, kids, etc
+Minus 'rubbish' channels, music, radio, kids, etc.  M3U files for use with Channels DVR with a Sat>IP Server (Megasat 3 in my case)
 
 - RTSP (UDP) direct to Channels DVR, tuning was slow
 - HTTP direct to Channels DVR, tuning was as fast as RTSP via TVHeadend
-- satip:// (UDP, calls RTSP to the Sat>IP server) direct to Channels, as fast (if not slightly faster) than RTSP via TVHeadend
+- satip:// (UDP, calls RTSP to the Sat>IP server) direct to Channels DVR, as fast (if not slightly faster) than RTSP via TVHeadend
 
 satip:// URLS are the way forward for me:
 
